@@ -1,2 +1,2 @@
-# Jepri-Friber
+# JefArt Studio
 Portofolio Desain Grafis
